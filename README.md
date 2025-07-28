@@ -1,2 +1,24 @@
-# quizapp
-This is a web-based Quiz Application built using HTML, CSS, and JavaScript. It features a welcome screen, 30 multiple-choice questions across various categories, a dynamic progress bar, instant feedback on answers, and a final score screen. The app is responsive and styled for a clean, user-friendly experience.
+ Quiz App
+
+A fully functional, interactive Quiz Application built with **HTML**, **CSS**, and **JavaScript**. It features a clean UI, multiple categories of questions, instant feedback, and a final score screen to assess your knowledge.
+
+---
+
+ Features
+
+- ✅ Welcome screen with Start button
+- ✅ 30 Multiple-Choice Questions
+- ✅ Covers topics: General Knowledge, Animals, and Bikes/Motorsport
+- ✅ Real-time answer validation (correct/incorrect)
+- ✅ Score tracking
+- ✅ Progress bar and current question indicator
+- ✅ Responsive and clean UI
+- ✅ Restart quiz option at the end
+
+---
+
+  Project Structure
+quiz-app/
+├── index.html 
+├── styles.css
+└── main.js
